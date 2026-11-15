@@ -1,0 +1,15 @@
+Timestamp,RemoteIP,ActionType,DeviceName,LogonType
+"Oct 8, 2026 3:19:58 PM",171.253.171.91,LogonSuccess,crra-db-03,Unlock
+"Oct 8, 2026 3:19:58 PM",171.253.171.91,LogonSuccess,crra-db-03,Unlock
+"Oct 8, 2026 3:19:54 PM",171.253.171.91,LogonSuccess,crra-db-03,Network
+"Oct 8, 2026 3:19:51 PM",171.253.171.91,LogonSuccess,crra-db-03,Network
+"Oct 8, 2026 3:18:43 PM",223.26.63.26,LogonSuccess,crra-db-03,Network
+"Oct 8, 2026 2:21:38 PM",10.0.8.5,LogonSuccess,crra-db-03,RemoteInteractive
+"Oct 8, 2026 2:21:38 PM",10.0.8.5,LogonSuccess,crra-db-03,RemoteInteractive
+"Oct 8, 2026 2:21:37 PM",10.0.8.5,LogonSuccess,crra-db-03,Network
+"Oct 8, 2026 12:35:32 PM",10.0.8.9,LogonSuccess,crra-db-03,RemoteInteractive
+"Oct 8, 2026 12:35:32 PM",10.0.8.9,LogonSuccess,crra-db-03,RemoteInteractive
+"Oct 8, 2026 12:35:30 PM",10.0.8.9,LogonSuccess,crra-db-03,Network
+"Oct 8, 2026 12:34:58 PM",10.0.8.8,LogonSuccess,crra-db-03,RemoteInteractive
+"Oct 8, 2026 12:34:58 PM",10.0.8.8,LogonSuccess,crra-db-03,RemoteInteractive
+"Oct 8, 2026 12:34:56 PM",10.0.8.8,LogonSuccess,crra-db-03,Network

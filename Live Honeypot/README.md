@@ -1,3 +1,5 @@
+The Google Drive version of this project is [HERE](https://drive.google.com/drive/folders/1ZM24naTny6hhYwOeJHBtQZQepalKp99f?usp=drive_link)
+
 # **Live Honeypot**
 
 **Author:** Razin Abbas · **Date:** 2026-11-08 UTC · **Classification:** TLP:AMBER
